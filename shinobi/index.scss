@@ -1,4 +1,5 @@
-// variables
+// variables & functions
+@import "functions";
 @import "variables";
 
 //base & layout
@@ -8,5 +9,4 @@
 @import "colors";
 //components (button,card,navbar)
 @import "components/card";
-
-//utility (margin,padding,opacity)
+@import "components/button"; //utility (margin,padding,opacity)
